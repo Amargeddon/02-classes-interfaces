@@ -10,7 +10,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 /**
  * @author Peter Kurfer
- * Created on 10/6/17.
+ * Cr+eated on 10/6/17.
  */
 public class SimpleListTest {
 
